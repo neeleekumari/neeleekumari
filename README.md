@@ -10,25 +10,24 @@
 ![Followers](https://img.shields.io/github/followers/neeleekumari?style=for-the-badge&logo=github&color=302b63)
 ![Location](https://img.shields.io/badge/Bengaluru-India-24c6dc?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-<br/>
-
-[**Projects**](#-featured-projects) · [**Tech**](#-tech-arsenal) · [**Stats**](#-github-stats) · [**Connect**](#-lets-connect)
-
 </div>
 
 ---
 
-## 👋 About Me
+## `$ whoami`
 
-I'm a Computer Science Engineering student at **Sri Venkateshwara College of Engineering, Bengaluru** (VTU). I like building software that actually gets used: ERP systems, AI dashboards, and deep learning that reads satellite images.
+```python
+class Neelee:
+    role       = "B.E. Computer Science Engineering student (VTU)"
+    college    = "Sri Venkateshwara College of Engineering, Bengaluru"
+    experience = "Software Dev Intern @ Suhitha Engineering Enterprises (GST ERP)"
+    interests  = ["Computer Vision", "Machine Learning", "Generative AI / NLP",
+                  "Blockchain", "Full-stack systems"]
+    current_quest = "Satellite road extraction with deep learning"
 
-| | |
-|---|---|
-| 🎓 **Studying** | B.E. Computer Science Engineering (VTU) |
-| 💼 **Experience** | Software Development Intern, Suhitha Engineering Enterprises (GST ERP) |
-| 🔭 **Exploring** | Satellite road extraction with deep learning |
-| 🧠 **Interested in** | Computer Vision · ML · Generative AI / NLP · Blockchain |
-| 🛠️ **Day-to-day stack** | React · Flask · FastAPI · PostgreSQL |
+    def say_hi(self):
+        return "Let's build something ridiculous."
+```
 
 ---
 
@@ -36,56 +35,37 @@ I'm a Computer Science Engineering student at **Sri Venkateshwara College of Eng
 
 <table>
   <tr>
-    <td valign="top" width="50%">
-      <h3>👁️ <a href="https://github.com/neeleekumari/visionops">VisionOps</a></h3>
-      Industrial AI surveillance and safety management platform.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+    <td valign="top">
+      <b>👁️ <a href="https://github.com/neeleekumari/visionops">VisionOps</a></b><br/>
+      Industrial AI surveillance &amp; safety management platform.<br/>
+      <sub>React · TypeScript · Vite</sub>
     </td>
-    <td valign="top" width="50%">
-      <h3>🗓️ <a href="https://github.com/neeleekumari/smart_sched">SmartSched</a></h3>
-      Timetable generator that resolves scheduling clashes automatically.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+    <td valign="top">
+      <b>🗓️ <a href="https://github.com/neeleekumari/smart_sched">SmartSched</a></b><br/>
+      Automatic timetable generator that resolves scheduling clashes.<br/>
+      <sub>Flask · PostgreSQL · Python</sub>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
-      <h3>🛰️ RoadIntel</h3>
-      U-Net based road extraction from satellite imagery with a Flask + React app on top.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+    <td valign="top">
+      <b>🛰️ RoadIntel</b><br/>
+      U-Net road extraction from satellite imagery, served via a web app.<br/>
+      <sub>Deep Learning · Flask · React</sub>
     </td>
-    <td valign="top" width="50%">
-      <h3>🪪 Visitor Pass Management System</h3>
-      End-to-end visitor pass workflow built for a BSF camp.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+    <td valign="top">
+      <b>🛡️ <a href="https://github.com/neeleekumari/Surveillance">Surveillance</a></b><br/>
+      Python-powered surveillance project.<br/>
+      <sub>Python</sub>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
+      <b>🪪 Visitor Pass Management System (BSF camp)</b><br/>
+      End-to-end visitor pass workflow for a BSF camp.<br/>
+      <sub>React · Node.js · FastAPI · PostgreSQL</sub>
     </td>
   </tr>
 </table>
-
-<details>
-<summary><b>🛰️ How RoadIntel works (click to expand)</b></summary>
-
-```mermaid
-flowchart LR
-    A[🛰️ Satellite image] --> B[🧠 U-Net model]
-    B --> C[🛣️ Road segmentation]
-    C --> D[⚙️ Flask API]
-    D --> E[💻 React web app]
-```
-
-</details>
 
 ---
 
@@ -120,12 +100,12 @@ flowchart LR
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=neeleekumari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&include_all_commits=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeleekumari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc" alt="Top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=neeleekumari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&include_all_commits=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeleekumari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc" alt="top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=neeleekumari&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=ff6b6b&currStreakLabel=24c6dc" width="70%" alt="Streak stats"/>
+<img src="https://streak-stats.demolab.com?user=neeleekumari&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=ff6b6b&currStreakLabel=24c6dc" width="70%" alt="streak"/>
 
 </div>
 
@@ -135,7 +115,7 @@ flowchart LR
 
 <div align="center">
 
-<img alt="Contribution snake" src="https://raw.githubusercontent.com/neeleekumari/neeleekumari/output/github-snake-dark.svg" width="100%"/>
+<img alt="contribution snake" src="https://raw.githubusercontent.com/neeleekumari/neeleekumari/output/github-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -143,21 +123,19 @@ flowchart LR
 
 ## 🎯 Currently
 
-- 🔭 Building **satellite road extraction** with deep learning
-- 🌱 Going deeper into **GenAI / NLP**, **ML** and **blockchain**
+- 🔭 Working on **satellite road extraction** with deep learning
+- 🌱 Deepening **GenAI / NLP**, **ML** and **blockchain** beyond coursework
 - 🛠️ Polishing **VisionOps** and my other repos
-- 💬 Ask me about: React, Flask / FastAPI, PostgreSQL, computer vision
+- 💬 Ask me about: React, Flask/FastAPI, PostgreSQL, computer vision
 
 ---
 
 <div align="center">
 
-## 📫 Let's Connect
+### 📫 Let's connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-neeleekumari-181717?style=for-the-badge&logo=github)](https://github.com/neeleekumari)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-HANDLE) -->
 <!-- [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL) -->
-
-<sub>⭐ If you like something here, a star on the repo is always appreciated.</sub>
 
 </div>
