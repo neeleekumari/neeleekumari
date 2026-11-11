@@ -1,38 +1,34 @@
-<!-- Put this file in a repo named exactly: neeleekumari/neeleekumari (public) -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24c6dc&text=Neelee%20Kumari&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Building%20things%20that%20see%2C%20think%20%26%20ship&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/neeleekumari/neeleekumari/main/assets/banner.svg" alt="Neelee Kumari banner" width="100%"/>
 
-<a href="https://github.com/neeleekumari">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=700&lines=CSE+Engineer+%40+SVCE+Bengaluru;Full-stack+%7C+Computer+Vision+%7C+GenAI;Turning+satellite+pixels+into+roads+%F0%9F%9B%B0%EF%B8%8F;Shipping+ERP+code+and+AI+dashboards;Currently+compiling+coffee+into+commits+%E2%98%95" alt="typing intro"/>
-</a>
+<img src="https://raw.githubusercontent.com/neeleekumari/neeleekumari/main/assets/typing.svg" alt="typing intro" width="700"/>
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=neeleekumari&label=Profile%20Views&color=24c6dc&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/neeleekumari?style=for-the-badge&logo=github&color=302b63)
-![Repos](https://img.shields.io/badge/Repos-5-24c6dc?style=for-the-badge&logo=git&logoColor=white)
+![Location](https://img.shields.io/badge/Bengaluru-India-24c6dc?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+<br/>
+
+[**Projects**](#-featured-projects) · [**Tech**](#-tech-arsenal) · [**Stats**](#-github-stats) · [**Connect**](#-lets-connect)
 
 </div>
 
 ---
 
-## `$ whoami`
+## 👋 About Me
 
-```python
-class Neelee:
-    role      = "B.E. Computer Science Engineering student (VTU)"
-    college   = "Sri Venkateshwara College of Engineering, Bengaluru"
-    experience = "Software Dev Intern @ Suhitha Engineering Enterprises (GST ERP)"
-    interests = ["Computer Vision", "Machine Learning", "Generative AI / NLP",
-                 "Blockchain", "Full-stack systems"]
-    current_quest = "Satellite road extraction with deep learning"
-    fuel      = "chai + curiosity"
+I'm a Computer Science Engineering student at **Sri Venkateshwara College of Engineering, Bengaluru** (VTU). I like building software that actually gets used: ERP systems, AI dashboards, and deep learning that reads satellite images.
 
-    def say_hi(self):
-        return "Let's build something ridiculous. 🚀"
-```
+| | |
+|---|---|
+| 🎓 **Studying** | B.E. Computer Science Engineering (VTU) |
+| 💼 **Experience** | Software Development Intern, Suhitha Engineering Enterprises (GST ERP) |
+| 🔭 **Exploring** | Satellite road extraction with deep learning |
+| 🧠 **Interested in** | Computer Vision · ML · Generative AI / NLP · Blockchain |
+| 🛠️ **Day-to-day stack** | React · Flask · FastAPI · PostgreSQL |
 
 ---
 
@@ -40,39 +36,36 @@ class Neelee:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top" width="50%">
       <h3>👁️ <a href="https://github.com/neeleekumari/visionops">VisionOps</a></h3>
-      Industrial AI surveillance &amp; safety management platform.<br/><br/>
+      Industrial AI surveillance and safety management platform.
+      <br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
     </td>
-    <td width="50%" valign="top">
+    <td valign="top" width="50%">
       <h3>🗓️ <a href="https://github.com/neeleekumari/smart_sched">SmartSched</a></h3>
-      Automatic timetable generator that untangles clashes so humans don't have to.<br/><br/>
+      Timetable generator that resolves scheduling clashes automatically.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td valign="top" width="50%">
       <h3>🛰️ RoadIntel</h3>
-      U-Net based road extraction from satellite imagery, served through a Flask + React app.<br/><br/>
+      U-Net based road extraction from satellite imagery with a Flask + React app on top.
+      <br/><br/>
       <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
     </td>
-    <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/neeleekumari/Surveillance">Surveillance</a></h3>
-      Python-powered surveillance project.<br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🪪 Visitor Pass Management System (BSF camp)</h3>
-      End-to-end visitor pass workflow for a BSF camp.<br/><br/>
+    <td valign="top" width="50%">
+      <h3>🪪 Visitor Pass Management System</h3>
+      End-to-end visitor pass workflow built for a BSF camp.
+      <br/><br/>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
@@ -80,6 +73,19 @@ class Neelee:
     </td>
   </tr>
 </table>
+
+<details>
+<summary><b>🛰️ How RoadIntel works (click to expand)</b></summary>
+
+```mermaid
+flowchart LR
+    A[🛰️ Satellite image] --> B[🧠 U-Net model]
+    B --> C[🛣️ Road segmentation]
+    C --> D[⚙️ Flask API]
+    D --> E[💻 React web app]
+```
+
+</details>
 
 ---
 
@@ -114,12 +120,12 @@ class Neelee:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=neeleekumari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&include_all_commits=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeleekumari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=neeleekumari&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&include_all_commits=true" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeleekumari&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc" alt="Top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=neeleekumari&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=ff6b6b&currStreakLabel=24c6dc" width="70%"/>
+<br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=neeleekumari&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+<img src="https://streak-stats.demolab.com?user=neeleekumari&theme=tokyonight&hide_border=true&background=0f0c29&ring=24c6dc&fire=ff6b6b&currStreakLabel=24c6dc" width="70%" alt="Streak stats"/>
 
 </div>
 
@@ -129,43 +135,29 @@ class Neelee:
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neeleekumari/neeleekumari/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neeleekumari/neeleekumari/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/neeleekumari/neeleekumari/output/github-snake-dark.svg" />
-</picture>
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/neeleekumari/neeleekumari/output/github-snake-dark.svg" width="100%"/>
 
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neeleekumari&theme=tokyo-night&hide_border=true&bg_color=0f0c29&color=24c6dc&line=302b63&point=ffffff" width="100%"/>
 </div>
 
 ---
 
 ## 🎯 Currently
 
-- 🔭 Working on **satellite road extraction** with deep learning
-- 🌱 Deepening **GenAI / NLP**, **ML** and **blockchain** beyond coursework
+- 🔭 Building **satellite road extraction** with deep learning
+- 🌱 Going deeper into **GenAI / NLP**, **ML** and **blockchain**
 - 🛠️ Polishing **VisionOps** and my other repos
-- 💬 Ask me about: React, Flask/FastAPI, PostgreSQL, computer vision
-- ⚡ Fun fact: I read the timetable of an entire college so you don't have to (SmartSched)
+- 💬 Ask me about: React, Flask / FastAPI, PostgreSQL, computer vision
 
 ---
 
 <div align="center">
 
-### 📫 Let's connect
+## 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-neeleekumari-181717?style=for-the-badge&logo=github)](https://github.com/neeleekumari)
-<!-- Add your LinkedIn / email below -->
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-HANDLE) -->
 <!-- [![Email](https://img.shields.io/badge/Email-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL) -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24c6dc,50:302b63,100:0f0c29&section=footer" width="100%" alt="footer"/>
+<sub>⭐ If you like something here, a star on the repo is always appreciated.</sub>
 
 </div>
