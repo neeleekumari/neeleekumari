@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34722594/README.md)
+[README.md](https://github.com/user-attachments/files/34722741/README.md)
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/neeleekumari/neeleekumari/main/assets/banner.svg" alt="Neelee Kumari banner" width="100%"/>
@@ -201,16 +201,12 @@ Commands:
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=neeleekumari&show_icons=true&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ffb000&icon_color=ffb000&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neeleekumari&layout=compact&hide_border=false&border_color=30363d&bg_color=0d1117&title_color=ffb000&text_color=c9d1d9" alt="Top languages"/>
+<img src="https://raw.githubusercontent.com/neeleekumari/neeleekumari/output/stats.svg" width="58%" alt="GitHub stats and streak"/>
+<img src="https://raw.githubusercontent.com/neeleekumari/neeleekumari/output/languages.svg" width="40%" alt="Top languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=neeleekumari&background=0d1117&border=30363d&stroke=30363d&ring=ffb000&fire=ff6b35&currStreakNum=ffb000&currStreakLabel=ffb000&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e" width="75%" alt="Streak stats"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=neeleekumari&bg_color=0d1117&color=ffb000&line=ffb000&point=ffffff&area=true&area_color=ffb000&hide_border=true" width="100%" alt="Activity graph"/>
+<img src="https://raw.githubusercontent.com/neeleekumari/neeleekumari/output/activity.svg" width="99%" alt="Contribution activity"/>
 
 </div>
 
