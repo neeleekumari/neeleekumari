@@ -1,5 +1,4 @@
-# Save as: .github/workflows/snake.yml in the neeleekumari/neeleekumari repo
-# (also save stats.py as: .github/scripts/stats.py)
+
 name: Generate Profile Assets
 
 on:
